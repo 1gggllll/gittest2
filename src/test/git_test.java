@@ -15,5 +15,6 @@ public class git_test {
         System.out.println("hello world!");
         System.out.println("hello world!");
         System.out.println("hot-fix修改的");
+        System.out.println("pull test");
     }
 }
